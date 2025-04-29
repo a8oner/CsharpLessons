@@ -17,7 +17,7 @@ This repository contains a collection of lessons, examples, and exercises focuse
 
 ## Purpose
 
-This repository is designed to help students and developers to improve their C# skills. It includes explanations, code samples, and challenges for hands-on learning. Each lesson comes with practical examples and exercises for better understanding.
+This repository is designed to help students and developers to improve their C# skills. It includes explanations, code samples, and challenges for hands-on learning.Each lesson comes with practical examples and exercises for better understanding.
 
 ## Folder Structure
 
