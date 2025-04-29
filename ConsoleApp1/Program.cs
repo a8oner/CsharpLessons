@@ -751,7 +751,7 @@ namespace ProjectExample
 
               do;
               while(true);i
-            // if(true); bu sonsuz döngü değildir. ama çalışır. gereksiz ayrıntı
+            // if(true); bu sonsuz döngü değildir. ama çalışır. gereksiz ayrıntı - one 1
              */
             #endregion
 
